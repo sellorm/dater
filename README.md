@@ -8,15 +8,23 @@ Inspired by the 'F5' key in notepad.exe.
 
 ## Installation
 
+**devtools:**
+
 ```
 devtools::install_github("sellorm/dater")
+```
+
+**no devtools:**
+
+```
+source("https://install-github.me/sellorm/dater")
 ```
 
 ## Setting up a keyboard shortcut
 
 Once the package is installed, click the 'Tools' menu, then go to 'Addins' and 'Browse Addins'.
 
-Click the 'Keyboard Shortcuts' button, and in the keyboard shortcuts screen you can modify or change the shortcut.
+Click the 'Keyboard Shortcuts' button, and in the keyboard shortcuts screen you can add or modify the shortcut.
 
 ## Addins more info
 
