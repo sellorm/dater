@@ -1,0 +1,10 @@
+Package: dater
+Type: Package
+Title: An RStudio AddIn to insert the date
+Version: 0.1.0
+Author: Mark Sellors
+Maintainer: <github@5vcc.com>
+Description: Implements an RStudio AddIn to insert the date at the current cursor position.
+License: MIT
+Encoding: UTF-8
+LazyData: true

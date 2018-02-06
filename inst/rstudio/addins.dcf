@@ -1,0 +1,4 @@
+Name: Insert date
+Description: Inserts the current date at the cursor position.
+Binding: insertDate
+Interactive: false
